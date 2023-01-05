@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Wiktor Zachar fresh programer with many ideas.
+- 👋 Hi, I’m Wiktor Zachar IT specialist in telecomunication company.
 - 👀 I’m interested in every aspect of web development(especialy with Python/Django)
-- 🌱 I’m currently learning Python, js, security and deployment
+- 🌱 I’m currently learning machine learning and advance OOP aspects.
 - 💞️ I’m looking to collaborate on with programming enthusiasts
 - 📫 How to reach me mail: zwiktor2023032@gmail.com or phone: 509967715
 
